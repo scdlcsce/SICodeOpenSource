@@ -1,0 +1,15 @@
+bug1 ,2, 4, 5: https://github.com/openssl/openssl/pull/*315/
+bug3: https://github.com/openssl/openssl/pull/*316/
+bug6: https://github.com/openssl/openssl/pull/*828/
+bug7: https://code.videolan.org/videolan/vlc/-/issues/*811
+bug8: https://github.com/torvalds/linux/commit/*5c0665
+bug9: https://github.com/torvalds/linux/commit/*cdec58
+bug10: https://lore.kernel.org/all/*c17c74@gmx.de
+bug11: https://lore.kernel.org/all/*c62be8@wanadoo.fr
+bug12: https://lore.kernel.org/all/*.*.*630782.b4-ty@kernel.org
+bug13: https://lore.kernel.org/all/*.*.*752627.git-patchwork-notify@kernel.org
+bug14: https://lore.kernel.org/all/*.*.*2767@gregkh
+bug15: https://lore.kernel.org/all/*.*.*692649.git-patchwork-notify@kernel.org
+bug16: https://lore.kernel.org/all/*.*.*856141.git-patchwork-notify@kernel.org
+bug17: https://lore.kernel.org/all/*.*.*581128.b4-ty@kernel.org
+bug18: https://lore.kernel.org/all/*.*.*525294.git-patchwork-notify@kernel.org
