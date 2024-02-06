@@ -1,5 +1,4 @@
-# This is the data set of submission #149
-The source code will be released upon publication.
+# This is the data set of SICode. The source code will soon be released.
 
 ## Data
 ### Training set and Testing set
