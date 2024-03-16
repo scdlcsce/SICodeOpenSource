@@ -1,5 +1,11 @@
-# This is the data set of SICode. The source code will soon be released.
+# This is the source code, data set, and experimental results of SICode.
 
+## Code
+install conda env shown in requirements.txt
+
+run the code files in order (00-09). 
+
+---
 ## Data
 ### Training set and Testing set
 
@@ -32,4 +38,3 @@ kernel6emb.tar.gz is the embedding vector folder for featured subgraphs of proje
 ## Results
 ### The confirmed bugs
 The confirmed bugs are listed in file bugs.txt.
-In order to obey the double-blind policy, we only publish the last six number of each commit id or confirmation message.
